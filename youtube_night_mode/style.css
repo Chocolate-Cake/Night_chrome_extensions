@@ -1,0 +1,43 @@
+body, .ytd-app, #content, #main, ytd-watch {
+	background: #373737 !important;
+	border: grey !important;
+	color: grey !important;
+}
+
+a, span {
+	color: grey !important;
+}
+
+ytd-masthead {
+	background: black !important;
+	color: cyan !important;
+	border: white 1px;
+}
+
+.style-scope .ytd-yoodle-renderer {
+	display: none;
+}
+
+#search {
+	background: ##373737 !important;
+	border: white 1px !important;
+}
+
+ytd-searchbox input {
+	background: grey !important;
+	color: cyan !important;
+	margin: 0px !important;
+}
+
+#container {
+	padding: 0px !important;
+	border: 1px black !important;
+}
+
+button {
+	background: grey !important;
+}
+
+#content-text.ytd-comment-renderer {
+	color: #DCAA0C !important;
+}

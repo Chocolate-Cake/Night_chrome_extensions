@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "Youtube_Night_Mode",
+	"version": "0.1.0",
+	"description": "A chrome extension to change youtube css to darker colors",
+	"author": "me",
+	"content_scripts": [{
+		"css": ["style.css"],
+		"matches": ["https://www.youtube.com/*"]
+		}],
+	"icons": { "16": "icon.png",
+              "48": "icon.png",
+              "128": "icon.png"}
+}

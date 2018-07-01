@@ -1,0 +1,84 @@
+html, body, header, nav, .content--list_body {
+	background: black !important;
+	color: #36B8C1 !important;
+}
+
+.community-content {
+	background: #2F2F2F !important;
+}
+
+span, .content--list_body {
+	color: #33A74A !important;
+}
+
+.ui-card, .content--list_body:hover {
+	background: black !important;
+}
+
+h3, h4, label {
+	color: #36B8C1 !important;
+}
+
+h5 {
+	color: #33A74A !important;
+}
+
+.theme-m .new-challenge-list .challenges-list-view-v2, input.checkbox-input, .checkbox-wrap, .theme-m.challenge-text, .tab-item .active, .ui-tabs-wrap .tab-item.active, .theme-m-section #codeshell-wrapper .codeeditor_statusbar, .theme-m-section #codeshell-wrapper .grey-header {
+	background: black !important;
+}
+
+button {
+	background: black !important;
+	border: solid ##2F2F2F 1px !important;
+}
+
+pre, .pull-right .lang-placeholder .select2-container .select2-choice, .pull-right .lang-placeholder .select2-container .select2-choice div {
+	background: black !important;
+}
+
+pre .CodeMirror-line {
+	caret-color: cyan !important;
+}
+
+code, p, strong {
+	color: #B58D50 !important;
+}
+
+.compile-field-label {
+	color: cyan !important;
+	background: black !important;
+}
+
+div .CodeMirror-gutter-background .CodeMirror-activeline-gutter, div .CodeMirror-activeline-background, .CodeMirror-gutters, .codeeditor-view .theme-m-section div {
+	background: black !important;
+}
+
+.CodeMirror-lines {
+	padding: 0px !important;
+}
+
+.select2-drop, .select2-container .select2-container-active a, .compile-tests-view .tab-content {
+	background: black !important;
+}
+
+.select2-highlighted {
+	background: #585858 !important;
+}
+
+.select2-results .select2-highlighted, .select2-search input {
+	background: grey !important;
+}
+
+.select2-result-label {
+	color: cyan !important;
+}
+
+hr {
+	display: none !important;
+}
+
+footer {
+	background: black !important;
+	margin: 0px !important;
+}
+

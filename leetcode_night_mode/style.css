@@ -1,0 +1,79 @@
+body {
+	background: black !important;
+}
+
+.question-list-table tbody tr:nth-of-type(odd) {
+	background: #545454 !important;
+}
+
+.form-control, .list-group-item{
+	color: grey !important;
+	background: black !important;
+}
+
+.reactable-pagination a, .CodeMirror-scroll, .CodeMirror-gutters {
+	background: black !important;
+}
+
+.label-success, .label-warning, .label-danger, .label-primary {
+	opacity: 0.7 !important;
+}
+
+.question-list-table tbody a {
+	color: #00C1FF !important;
+}
+
+#announcement, .fav-list, .separator-line {
+	display: none !important;
+}
+
+.card {
+	opacity: 0.7 !important;
+}
+
+table {
+	border-color: orange !important;
+}
+
+.btn-default {
+	background: black !important;
+	border: 1px solid grey !important;
+	color: cyan !important;
+}
+
+.text-gray {
+	color: black !important;
+}
+
+tr :hover, .reactable-data tr td :hover, button {
+	background: black !important;
+}
+
+.list-group .lg {
+	opacity: 0.5 !important;
+}
+
+.filter-title, p {
+	color: #ABABAB !important;
+}
+
+button.tab-item.icon-btn.active, a.tab-item.icon-btn.active {
+	border: 1px solid cyan !important;
+	background: black !important;
+	color: grey !important;
+}
+
+pre, .list-item {
+	background: black !important;
+	color: black !important;
+}
+
+.Select-value, .Select-arrow-zone, .Select-control, .Select-control .Select-input:focus {
+	background: black !important;
+	color: #ABABAB !important;
+}
+
+.cm-variable, .CodeMirror-line  {
+	color: green !important;
+}
+
