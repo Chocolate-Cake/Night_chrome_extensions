@@ -36,3 +36,7 @@ g-scrolling-carousel, g-inner-card {
 	background: black !important;
 	border: beige 1px;
 }
+
+a:visited {
+	color: #1564AD !important;
+}

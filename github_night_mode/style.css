@@ -1,0 +1,65 @@
+body, .pagehead.repohead.instapaper_ignore.readability-menu.experiment-repo-nav {
+	background: black !important;
+}
+
+a {
+	color: grey !important;
+}
+
+div a {
+	color: grey !important;
+}
+
+.Box-header, h3, .commit-tease.js-details-container.Details.d-flex, .commit-tease, .file-header {
+	background: #585858 !important;
+}
+
+.Box-body, .plain, .up-tree.js-navigation-item, .commit-tease-contributors {
+	background: #3E3E3E !important;
+}
+
+.d-flex.flex-column.width-full, .branch-name, .social-count {
+	background-color: grey !important;
+	color: white !important;
+}
+
+input, .Box, summary, .btn.btn-sm {
+	background: #3E3E3E !important;
+}
+
+span, .plain pre {
+	color: grey !important;
+}
+
+.btn.btn-sm.btn-primary.text-white {
+	background: #0E5D34 !important;
+}
+
+.reponav-item.selected, button, .icon, .content, .message, .age  {
+	background: #3E3E3E !important;
+}
+
+
+.js-navigation-item.navigation-focus :hover .icon .content .message .age {
+	background: black !important;
+}
+
+.pl-c1 {
+	color: #1BB9AD !important;
+}
+
+.pl-k {
+	color: #901CB6 !important;
+}
+
+.pl-ent {
+	color: #1EBA2B !important;
+}
+
+.pl-e {
+	color: #C1331C !important;
+}
+
+.blob-code.blob-code-inner.js-file-line {
+	color: grey !important;
+}

@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "Github_Night_Mode",
+	"version": "0.1.0",
+	"description": "A chrome extension to change github css to darker colors",
+	"author": "Yi Meng (Emily) Su",
+	"content_scripts": [{
+		"css": ["style.css"],
+		"matches": ["https://github.com/*"]
+		}],
+	"icons": { "16": "icon.png",
+              "48": "icon.png",
+              "128": "icon.png"}
+}
