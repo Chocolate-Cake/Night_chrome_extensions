@@ -1,12 +1,12 @@
 {
 	"manifest_version": 2,
-	"name": "Google_Night_Mode",
+	"name": "WSJ_Night_Mode",
 	"version": "0.1.0",
-	"description": "A chrome extension to change google css to darker colors",
+	"description": "A chrome extension to change wsj css to darker colors",
 	"author": "Yi Meng (Emily) Su",
 	"content_scripts": [{
 		"css": ["style.css"],
-		"matches": ["https://www.google.com/*"]
+		"matches": ["https://www.wsj.com/*"]
 		}],
 	"icons": { "16": "icon.png",
               "48": "icon.png",

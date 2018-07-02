@@ -2,8 +2,8 @@
   "manifest_version": 2,
   "name": "Hackerrank_Night_Mode",
   "version": "0.1.0",
-  "description": "A chrome extension to change css to darker colors",
-  "author": "me",
+  "description": "A chrome extension to change hackerrank css to darker colors",
+  "author": "Yi Meng (Emily) Su",
   "content_scripts": [{
     "css": ["style.css"],
     "matches": ["https://www.hackerrank.com/*"]

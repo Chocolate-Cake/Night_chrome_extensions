@@ -1,0 +1,89 @@
+body, html, *[class^="style__mast-head-container_"], footer, iframe, #poptart-wrapper, div[class^="style__back-2-top_"] button, div[class^="style__back-2-top_"], *[class^="style__products-wrapper_"], h4 a, .summary {
+	background: black !important;
+	color: #188059 !important;
+}
+
+div[class^="style__sector_"], div[class^="style__hat_"] {
+	display: none !important;
+}
+
+a[class^="style__section-link_"] {
+	color: grey !important;
+}
+
+.wsj-headline-link, h3 a, h2 a, .wsj-sectionfront {
+	color: grey !important;
+}
+
+span[class^="WSJTheme__display-name_"], span[class^="WSJTheme__display-price_"] {
+	color: grey !important;
+}
+
+*[class^="style__top-menu-item_"] *, *[class^="style__top-menu-item_"] * :hover, *[class^="style__subsections_"] :hover , *[class^="style__top-menu-item_"] :hover, *[class^="style__section-link_"] :hover{
+	background: #202020 !important;
+	color: grey !important;
+}
+
+div {
+	border-color: grey !important;
+}
+
+.border-left, .border-right, .border-bottom, .border-top {
+	background: none !important;
+	border: none !important;
+}
+
+.wsj-headline {
+	color: grey !important;
+}
+
+div [class^="style__overlay-contents_"] input {
+	background: black !important;
+}
+
+div [class^="style__sections-container_"] {
+	background-image: none !important;
+	background-color: grey !important;
+}
+
+div[class^="style__sections-container_"]:before {
+	background: -webkit-gradient(linear,left top,left bottom,from(#000),to(hsla(0,0%,100%,0)));
+}
+
+div[class^="style__sections-container_"]:after {
+	background: -webkit-gradient(linear,left top,left bottom,from(hsla(0,0%,100%,0)),to(#000));
+}
+
+.dynamic-inset-container, .media-object {
+	background: none !important;
+}
+
+.djai2html-leadin {
+	color: grey !important;
+}
+
+div [class^="wsj-ai2html-"], img, #cce-tile-inner {
+	opacity: 0.85 !important;
+}
+
+.shareIcon, button[class^="style__burger_"], button[class^="style__user-button_"], #editions-select {
+	background-color: #4C4C4C !important;
+	color: beige !important;
+}
+
+.coral-toggle.coral-hidden, .coral-toggle.coral-hidden * {
+	background-color: #001679 !important;
+	color: grey !important;
+}
+
+.banner-text, .MarketsTable-row .--active .--up {
+	background-color: grey !important;
+}
+
+.carousel-container, .carousel-container * {
+	background-color: grey !important;
+}
+
+.MarketsCarousel, .Carousel-control-wrap {
+	background-color: black !important;
+}

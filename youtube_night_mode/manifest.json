@@ -3,7 +3,7 @@
 	"name": "Youtube_Night_Mode",
 	"version": "0.1.0",
 	"description": "A chrome extension to change youtube css to darker colors",
-	"author": "me",
+	"author": "Yi Meng (Emily) Su",
 	"content_scripts": [{
 		"css": ["style.css"],
 		"matches": ["https://www.youtube.com/*"]
