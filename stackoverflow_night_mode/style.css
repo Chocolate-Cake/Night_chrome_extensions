@@ -1,0 +1,67 @@
+body, #content, .-container, header, footer {
+	background-color: black !important;
+}
+
+a {
+	color: grey !important;
+}
+
+.post-text p, b, span {
+	color: #197CA2 !important;
+}
+
+input, #tabs a {
+	background: grey !important;
+	color: white !important;
+}
+
+#hireme, .new-login-form {
+	display: none;
+}
+
+pre, code, textarea, .user-info, .ad502-room {
+	background: #373737 !important;
+}
+
+.typ {
+	color: cyan !important;
+}
+
+.str {
+	color: magenta !important;
+}
+
+.pun, .pln {
+	color: #AC9D65 !important;
+}
+
+.kwd {
+	color: blue !important;
+}
+
+blockquote {
+	background: #075224 !important;
+	border-left-color: lime !important;
+}
+
+blockquote p {
+	color: white !important;
+}
+
+#submit-button {
+	background-color: #115DA9 !important;
+}
+
+.answer-help-background, #mdhelp-tabs {
+	background: grey !important;
+}
+
+div .answer-votes {
+	background-color: grey !important;
+}
+
+div .answered-accepted {
+	background-color: #085829 !important;
+	color: #999999 !important;
+}
+
