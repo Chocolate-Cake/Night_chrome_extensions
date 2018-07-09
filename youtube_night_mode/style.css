@@ -1,4 +1,4 @@
-body, .ytd-app, #content, #main, ytd-watch {
+body, .ytd-app, #content, #main, ytd-watch, paper-button, yt-formatted-string {
 	background: #373737 !important;
 	border: grey !important;
 	color: grey !important;
@@ -12,10 +12,6 @@ ytd-masthead {
 	background: black !important;
 	color: cyan !important;
 	border: white 1px;
-}
-
-.style-scope .ytd-yoodle-renderer {
-	display: none;
 }
 
 #search {
@@ -40,4 +36,8 @@ button {
 
 #content-text.ytd-comment-renderer {
 	color: #DCAA0C !important;
+}
+
+img {
+	opacity: 0.8 !important;
 }

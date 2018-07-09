@@ -6,7 +6,7 @@ a {
 	color: grey !important;
 }
 
-.post-text p, b, span {
+.post-text p, b, span, h2, li {
 	color: #197CA2 !important;
 }
 

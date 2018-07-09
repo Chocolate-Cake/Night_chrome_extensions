@@ -63,7 +63,7 @@ div[class^="style__sections-container_"]:after {
 }
 
 div [class^="wsj-ai2html-"], img, #cce-tile-inner {
-	opacity: 0.85 !important;
+	opacity: 0.8 !important;
 }
 
 .shareIcon, button[class^="style__burger_"], button[class^="style__user-button_"], #editions-select {
@@ -86,4 +86,16 @@ div [class^="wsj-ai2html-"], img, #cce-tile-inner {
 
 .MarketsCarousel, .Carousel-control-wrap {
 	background-color: black !important;
+}
+
+#articleNewsReel .cx-gradient.next,  #articleNewsReel .cx-gradient.prev{
+	    display: none !important;
+}
+
+.title.title-animation {
+	color: grey !important;
+}
+
+#articleNewsReel {
+	border: none !important;
 }
